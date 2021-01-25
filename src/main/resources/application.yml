@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: javadoc-test-server
+
+server:
+  port: 7979
